@@ -16,9 +16,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
+- **Name:** Tshireletso Mogwere
 - **Date:**
-- **Current Role/Position:**
+- **Current Role/Position:** Software Engineer student at Codespace
 - **Field of Interest:**
 
 ### Part 1: Self-Assessment Reflection
