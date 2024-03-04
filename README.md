@@ -17,20 +17,29 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Personal Information
 
 - **Name:** Tshireletso Mogwere
-- **Date:**
+- **Date:** 
 - **Current Role/Position:** Software Engineer student at Codespace
 - **Field of Interest:**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
+    - Comunication
+    - Teamwork
+    - Well organised
+     **Areas of expertise**:
+    - HTML, CSS, JAVASCRIPT
+    - 
+
     - Identify skills you need to develop or improve.
+
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
+    - Describe your key interests related to your career. 
+    - Creativity , Problem solving, building
     - What values are important to you in a work environment?
+    -Accountability, leadership, loyalty, flexbility
 
 ### Part 2: Career Exploration Insights
 
